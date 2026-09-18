@@ -1,0 +1,13 @@
+# Environment variables
+.env
+!.env.example
+
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# SQLite database
+*.sqlite3
